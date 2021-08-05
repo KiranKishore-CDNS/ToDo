@@ -1,3 +1,3 @@
 # ToDo
 
-ToDo App using User Defaults using Data Persistence.
+ToDo App using User Defaults for persisting data.
